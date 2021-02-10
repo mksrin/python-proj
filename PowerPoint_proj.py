@@ -10,7 +10,7 @@ pylogo='pylogo.png'
 pptlogo='pptlogo.png'
 prs = Presentation()
 
-# front page
+# :::Front Page:::
 #-----------------------------------------------------------------------------------------------------------------------
 slide = prs.slides.add_slide(prs.slide_layouts[6])
 prs.slide_width = Inches(16)
